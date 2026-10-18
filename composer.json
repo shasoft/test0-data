@@ -1,0 +1,22 @@
+{
+  "name": "shasoft/t-data",
+  "type": "library",
+  "description": "Data manipulation package",
+  "keywords": [
+    "serialize",
+    "conversion",
+    "php"
+  ],
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Shasoft\\TData\\": "classes"
+    }
+  },
+  "authors": [
+    {
+      "name": "Shabanov Valera",
+      "email": "git-shasoft-data@shasoft.com"
+    }
+  ]
+}
